@@ -1,4 +1,4 @@
-package com.jacobsprojects.ppmtool.Domain;
+package com.jacobsprojects.ppmtool.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package com.jacobsprojects.ppmtool.Repositories;
+package com.jacobsprojects.ppmtool.repositories;
 
-import com.jacobsprojects.ppmtool.Domain.Project;
+import com.jacobsprojects.ppmtool.domain.Project;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
